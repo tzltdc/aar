@@ -4,7 +4,7 @@ plugins {
     id 'signing'
 }
 
-group = 'com.viliussutkus89'
+group = 'com.tzltdc'
 
 android {
     compileSdkVersion 32
@@ -12,7 +12,7 @@ android {
         minSdkVersion 16
         targetSdkVersion 32
 
-        versionCode 13552
+        versionCode 13555
         versionName rootProject.version
 
         archivesBaseName = rootProject.name
@@ -54,9 +54,9 @@ afterEvaluate {
                 pom {
                     name = rootProject.name
                     description = 'Sample_Android_Library-MavenCentral-Instrumented_Tests'
-                    url = 'https://github.com/ViliusSutkus89/Sample_Android_Library-MavenCentral-Instrumented_Tests'
+                    url = 'https://github.com/tzltdc/aar/'
                     packaging = 'aar'
-                    inceptionYear = '2021'
+                    inceptionYear = '2023'
                     licenses {
                         license {
                             name = 'MIT License'
@@ -72,8 +72,8 @@ afterEvaluate {
                         }
                     }
                     scm {
-                        url = 'https://github.com/ViliusSutkus89/Sample_Android_Library-MavenCentral-Instrumented_Tests'
-                        connection = 'https://github.com/ViliusSutkus89/Sample_Android_Library-MavenCentral-Instrumented_Tests.git'
+                        url = 'https://github.com/tzltdc/aar'
+                        connection = 'https://github.com/tzltdc/aar.git'
                     }
                 }
             }

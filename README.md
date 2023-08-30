@@ -1,5 +1,5 @@
 # Sample Android library
-[![vuild](https://github.com/ViliusSutkus89/Sample_Android_Library-MavenCentral-Instrumented_Tests/actions/workflows/build.yml/badge.svg)](https://github.com/ViliusSutkus89/Sample_Android_Library-MavenCentral-Instrumented_Tests/actions/workflows/build.yml)
+[![vuild](https://github.com/tzltdc/aar/actions/workflows/build.yml/badge.svg)](https://github.com/tzltdc/aar/actions/workflows/build.yml)
 [![Maven Central](https://img.shields.io/maven-central/v/com.viliussutkus89/samplelib.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:com.viliussutkus89%20AND%20a:samplelib)
 
 The purpose of this project is to provide a sample library with a particular set of CI/CD features.

@@ -8,8 +8,8 @@ task clean(type: Delete) {
     delete rootProject.buildDir
 }
 
-group = 'com.viliussutkus89'
-version = '2.2.1'
+group = 'com.tzltdc'
+version = '2.2.2'
 
 nexusPublishing {
     repositories {
